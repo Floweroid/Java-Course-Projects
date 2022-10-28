@@ -6,7 +6,7 @@ The project suppose to show that I have basic knowledge of Grammer of Java.
 
 ## Structure:
 Java-Course-Project
-
+```text
 ├─.history  
 │  └─.git  
 ├─Week 1 Get Started with Java  
@@ -29,3 +29,4 @@ Java-Course-Project
 │  └─Lab Activity 6 Understanding Polymorphism  
 └─Week 7 Link List  
     └─Simple Link List  
+```
