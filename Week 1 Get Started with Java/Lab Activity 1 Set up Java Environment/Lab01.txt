@@ -1,0 +1,60 @@
+COP2210 - Lab01 Worksheet
+
+Name:Zekai Lin
+
+PS. The VSCode is used as IDE
+PSS. Since the system language is not English and the Windows 10 Family is not allow to change the system language. The error txt may not be as same as the it show in English since it is tranlated.
+
+(Question 1) What happens when you try to save it?
+    Saved, but with error hint in "ello", The public type ello must be defined in its own. (Using VSCode as IDE)
+
+(Question 2) What error message do you get during the compile?
+    The public type ello must be defined in its own file
+
+(Question 3) What line number was your error on?
+    Line 7
+
+(Question 4) Why is there no error message?
+    Because it is only type erroe in the text data, istead of the codes or commands will be compile.
+
+(Question 5) What type of error just occurred?
+    There is no error for the program, just error in literal spelling.
+
+(Question 6) What error message(s) do you get?
+    Hello.java:9: Erorr: String not end
+            System.out.println("Welcome to CIS 351!);
+                               ^
+    1 Erorr
+
+(Question 7) What was different about the errors this time?
+    Error message:
+Hello.java:9: Error: Need')'
+            System.out.println(Welcome to CIS 351!");
+                                      ^
+Hello.java:9: Error: Need';'
+            System.out.println(Welcome to CIS 351!");
+                                             ^
+Hello.java:9: Error: String not end
+            System.out.println(Welcome to CIS 351!");
+                                                  ^
+3 Error        
+
+    It shows up three errors, with quiet different error reasons.
+
+(Question 8) What error message(s) do you get?
+Hello.java:9: Error: Need';'
+            System.out.println("Welcome to CIS 351!")
+                                                     ^
+1 Error
+
+(Question 9) Why does message not have quotes around it?
+    Because message is a variable means that there are already quotes and String inside the container name message. By the previous codes
+
+(Question 10) How many lines of output do you get?
+    One
+
+(Question 11) How many lines of output do you get?
+    two
+
+(Question 12) What output do you get?
+    two
