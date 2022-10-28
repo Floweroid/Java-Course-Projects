@@ -5,8 +5,8 @@ This is a Set of Projects I have been finished in Data Structure.
 The project suppose to show that I have basic knowledge of Grammer of Java.
 
 ## Structure:
-Java-Course-Project
 ```text
+Java-Course-Project
 ├─.history  
 │  └─.git  
 ├─Week 1 Get Started with Java  
